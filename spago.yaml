@@ -23,7 +23,4 @@ package:
       - spec-mocha
       - transformers
       - unsafe-coerce
-workspace:
-  extraPackages: {}
-  packageSet:
-    registry: 60.5.0
+workspace: {}
