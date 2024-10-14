@@ -3,7 +3,7 @@ package:
   description: An asynchronous AJAX library built using Aff that runs on the browser.
   publish:
     license: Apache-2.0
-    version: 1.0.0
+    version: 2.0.0
     location:
       githubOwner: purescript-contrib
       githubRepo: purescript-affjax-web
